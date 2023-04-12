@@ -6,6 +6,7 @@
  *        Last Modified: 2014/06/03
  *========================================
  */
+<<<<<<< HEAD
 /* sl version 5.03 : Fix some more compiler warnings.                        */
 /*                                              by Ryan Jacobs    2015/01/19 */
 /* sl version 5.02 : Fix compiler warnings.                                  */
@@ -14,6 +15,10 @@
 /*                                              by Chris Seymour  2014/01/03 */
 /* sl version 5.00 : add -c option                                           */
 /*                                              by Toyoda Masashi 2013/05/05 */
+=======
+/* sl version 5.00 : add -c option                                           */
+/*                                              by Toyoda Masashi 2013/ 5/ 5 */
+>>>>>>> d8f076a... Merge pull request #1 from fukuchi/origsl
 /* sl version 4.00 : add C51, usleep(40000)                                  */
 /*                                              by Toyoda Masashi 2002/12/31 */
 /* sl version 3.03 : add usleep(20000)                                       */
